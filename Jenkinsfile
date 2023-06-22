@@ -29,7 +29,7 @@ sh '''
 
 oc project saaori-greetings
 
-oc start-build greeting-console --follow --wait
+oc start-build greeting-console-1 --follow --wait
 
 '''
 
