@@ -14,6 +14,6 @@ spec:
   output:
     to:
       kind: DockerImage
-      name: quay.io/shivam2.sharma/greeting-console
+      name: quay.io/shivam2_sharma/greeting-console
     pushSecret:
       name: quay-credentials
